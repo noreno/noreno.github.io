@@ -1,0 +1,4 @@
+- [Resampling](https://github.com/noreno/resampling)
+- [Cashflow Matching](https://github.com/noreno/cashflow-matching)
+- [Life-Cycle Model](https://github.com/noreno/lcm)
+- [Practical Machine Learning](https://noreno.github.io/writeup.html)
